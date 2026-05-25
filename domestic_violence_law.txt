@@ -1,0 +1,678 @@
+SECTION: Protection of Women from Domestic Violence Act Section 3
+CATEGORY: Domestic Violence Law
+KEYWORDS: domestic violence definition, physical abuse, emotional abuse
+
+EXPLANATION:
+Defines domestic violence including physical, emotional,
+sexual, verbal, and economic abuse.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 12
+CATEGORY: Domestic Violence Law
+KEYWORDS: domestic violence complaint, magistrate application
+
+EXPLANATION:
+Aggrieved woman may file complaint before Magistrate
+seeking protection and relief.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 17
+CATEGORY: Domestic Violence Law
+KEYWORDS: residence rights, shared household
+
+EXPLANATION:
+Woman has right to reside in shared household
+regardless of ownership.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 18
+CATEGORY: Domestic Violence Law
+KEYWORDS: protection order, abuse prevention
+
+EXPLANATION:
+Court may issue protection orders restraining violence,
+harassment, or threats.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 19
+CATEGORY: Domestic Violence Law
+KEYWORDS: residence order, eviction restriction
+
+EXPLANATION:
+Court may pass residence orders protecting housing rights
+of aggrieved woman.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 20
+CATEGORY: Domestic Violence Law
+KEYWORDS: monetary relief, compensation, maintenance
+
+EXPLANATION:
+Court may grant financial relief including medical expenses,
+maintenance, and loss recovery.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 21
+CATEGORY: Domestic Violence Law
+KEYWORDS: child custody, temporary custody
+
+EXPLANATION:
+Court may grant temporary custody of children
+to aggrieved woman.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 22
+CATEGORY: Domestic Violence Law
+KEYWORDS: compensation, mental torture, emotional abuse
+
+EXPLANATION:
+Court may grant compensation for mental torture
+and emotional distress.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 23
+CATEGORY: Domestic Violence Law
+KEYWORDS: interim order, emergency protection
+
+EXPLANATION:
+Court may pass immediate interim protection orders.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 304B
+CATEGORY: Domestic Violence Law
+KEYWORDS: dowry death, dowry harassment
+
+EXPLANATION:
+Death of woman caused by dowry harassment.
+
+PUNISHMENT:
+Minimum 7 years imprisonment up to life imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 306
+CATEGORY: Domestic Violence Law
+KEYWORDS: abetment of suicide, harassment suicide
+
+EXPLANATION:
+Abetting suicide through cruelty or harassment.
+
+PUNISHMENT:
+Up to 10 years imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 313
+CATEGORY: Domestic Violence Law
+KEYWORDS: forced miscarriage, abortion without consent
+
+EXPLANATION:
+Causing miscarriage without consent of woman.
+
+PUNISHMENT:
+Life imprisonment or up to 10 years imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 323
+CATEGORY: Domestic Violence Law
+KEYWORDS: assault, physical abuse, hurt
+
+EXPLANATION:
+Punishment for voluntarily causing hurt.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 324
+CATEGORY: Domestic Violence Law
+KEYWORDS: weapon assault, dangerous attack
+
+EXPLANATION:
+Causing hurt using dangerous weapons or means.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 325
+CATEGORY: Domestic Violence Law
+KEYWORDS: grievous hurt, severe injury
+
+EXPLANATION:
+Punishment for voluntarily causing grievous hurt.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 326
+CATEGORY: Domestic Violence Law
+KEYWORDS: acid attack, dangerous injury
+
+EXPLANATION:
+Causing grievous hurt using dangerous weapons or acid.
+
+PUNISHMENT:
+Severe imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 354
+CATEGORY: Domestic Violence Law
+KEYWORDS: assault on woman, outraging modesty
+
+EXPLANATION:
+Assault or criminal force against woman with intent
+to outrage modesty.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354A
+CATEGORY: Domestic Violence Law
+KEYWORDS: sexual harassment, inappropriate touching
+
+EXPLANATION:
+Sexual harassment including unwanted touching,
+remarks, or demands.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354B
+CATEGORY: Domestic Violence Law
+KEYWORDS: disrobing woman, assault with intent
+
+EXPLANATION:
+Assault or use of force with intent to disrobe woman.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 354C
+CATEGORY: Domestic Violence Law
+KEYWORDS: voyeurism, private image sharing
+
+EXPLANATION:
+Capturing or sharing private images without consent.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354D
+CATEGORY: Domestic Violence Law
+KEYWORDS: stalking, repeated harassment
+
+EXPLANATION:
+Repeated monitoring or harassment physically or online.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Domestic Violence Law
+KEYWORDS: dowry articles, stridhan misuse
+
+EXPLANATION:
+Criminal breach of trust involving dowry
+or woman's property.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 498A
+CATEGORY: Domestic Violence Law
+KEYWORDS: cruelty by husband, dowry cruelty, abuse
+
+EXPLANATION:
+Cruelty or harassment by husband or relatives.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 503
+CATEGORY: Domestic Violence Law
+KEYWORDS: threats, intimidation, harassment
+
+EXPLANATION:
+Criminal intimidation and threats.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 506
+CATEGORY: Domestic Violence Law
+KEYWORDS: criminal intimidation, violent threats
+
+EXPLANATION:
+Punishment for criminal intimidation.
+
+PUNISHMENT:
+Up to 7 years imprisonment depending on severity.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 509
+CATEGORY: Domestic Violence Law
+KEYWORDS: insulting modesty, verbal abuse
+
+EXPLANATION:
+Words or gestures insulting modesty of woman.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Dowry Prohibition Act 1961
+CATEGORY: Domestic Violence Law
+KEYWORDS: dowry demand, dowry offence
+
+EXPLANATION:
+Giving, taking, or demanding dowry is punishable.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 15
+CATEGORY: Constitutional Rights
+KEYWORDS: protection of women, gender equality
+
+EXPLANATION:
+State may make special provisions for women and children.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: dignity, safety, life and liberty
+
+EXPLANATION:
+Protection of dignity, safety, and personal liberty.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 39A
+CATEGORY: Constitutional Rights
+KEYWORDS: legal aid, equal justice
+
+EXPLANATION:
+Equal justice and free legal aid for all citizens.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+SECTION: Protection of Women from Domestic Violence Act Section 31
+CATEGORY: Domestic Violence Law
+KEYWORDS: violation of protection order, breach of court order
+
+EXPLANATION:
+Violation of protection order issued by Magistrate
+is a criminal offence.
+
+PUNISHMENT:
+Up to 1 year imprisonment and/or fine.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 32
+CATEGORY: Domestic Violence Law
+KEYWORDS: cognizable offence, arrest in DV cases
+
+EXPLANATION:
+Offences relating to breach of protection orders
+are cognizable and non-bailable.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: CrPC Section 125
+CATEGORY: Domestic Violence Law
+KEYWORDS: maintenance, wife support, child maintenance
+
+EXPLANATION:
+Women, children, and parents unable to maintain themselves
+may seek maintenance.
+
+COURT:
+Family Court / Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 307
+CATEGORY: Domestic Violence Law
+KEYWORDS: attempt to murder, severe domestic assault
+
+EXPLANATION:
+Attempting to cause death during domestic violence incidents.
+
+PUNISHMENT:
+Up to life imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 326A
+CATEGORY: Domestic Violence Law
+KEYWORDS: acid attack, acid violence against women
+
+EXPLANATION:
+Causing permanent injury through acid attack.
+
+PUNISHMENT:
+Minimum 10 years imprisonment up to life imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 326B
+CATEGORY: Domestic Violence Law
+KEYWORDS: attempted acid attack, acid threat
+
+EXPLANATION:
+Attempting to throw acid or administer acid attack.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 354C
+CATEGORY: Domestic Violence Law
+KEYWORDS: revenge porn, private image sharing
+
+EXPLANATION:
+Capturing or circulating private images without consent.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 370
+CATEGORY: Domestic Violence Law
+KEYWORDS: trafficking, forced exploitation
+
+EXPLANATION:
+Trafficking persons for exploitation or abuse.
+
+PUNISHMENT:
+Severe imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 376
+CATEGORY: Domestic Violence Law
+KEYWORDS: rape, sexual assault, forced intercourse
+
+EXPLANATION:
+Punishment for rape and sexual assault offences.
+
+PUNISHMENT:
+Rigorous imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 376B
+CATEGORY: Domestic Violence Law
+KEYWORDS: separated spouse assault, marital sexual assault
+
+EXPLANATION:
+Sexual intercourse by husband upon wife during separation
+without consent.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 498A
+CATEGORY: Domestic Violence Law
+KEYWORDS: cruelty, dowry abuse, mental harassment
+
+EXPLANATION:
+Cruelty including mental and physical harassment by husband
+or relatives.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IT Act 66E
+CATEGORY: Domestic Violence Law
+KEYWORDS: privacy violation, intimate image misuse
+
+EXPLANATION:
+Capturing or sharing private images electronically without consent.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act 67
+CATEGORY: Domestic Violence Law
+KEYWORDS: obscene material online, revenge porn circulation
+
+EXPLANATION:
+Publishing or transmitting obscene material electronically.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: One Stop Centre Scheme
+CATEGORY: Domestic Violence Law
+KEYWORDS: women shelter, emergency support, counselling
+
+EXPLANATION:
+Government support centres provide medical, legal,
+psychological, and shelter assistance.
+
+COURT:
+Support Service Mechanism
+
+----------------------------------------------------
+
+SECTION: NALSA Legal Aid Services
+CATEGORY: Domestic Violence Law
+KEYWORDS: free legal aid, women legal support
+
+EXPLANATION:
+Eligible women may obtain free legal aid and legal representation.
+
+COURT:
+Legal Services Authority
+
+----------------------------------------------------
+
+SECTION: Article 19
+CATEGORY: Constitutional Rights
+KEYWORDS: freedom, movement, personal autonomy
+
+EXPLANATION:
+Protection of personal freedoms and autonomy.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: dignity, privacy, bodily integrity
+
+EXPLANATION:
+Right to dignity, bodily integrity, and safe living conditions.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
