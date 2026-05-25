@@ -1,0 +1,129 @@
+SECTION: Indian Contract Act Section 10
+CATEGORY: Contract Law
+KEYWORDS: valid contract, agreement, lawful consideration, free consent
+
+EXPLANATION:
+An agreement becomes a valid contract when made with free consent,
+lawful consideration, and lawful object.
+
+PUNISHMENT:
+Civil compensation for breach.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 13-19
+CATEGORY: Contract Law
+KEYWORDS: coercion, fraud, undue influence, misrepresentation
+
+EXPLANATION:
+Consent obtained through force, fraud, coercion,
+or misrepresentation makes contracts voidable.
+
+PUNISHMENT:
+Contract may become voidable and compensation may apply.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 20-22
+CATEGORY: Contract Law
+KEYWORDS: mistake, wrong facts, void contract
+
+EXPLANATION:
+A contract may become void if both parties make a mistake
+about an important fact.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 23-30
+CATEGORY: Contract Law
+KEYWORDS: illegal agreement, unlawful object, gambling agreement
+
+EXPLANATION:
+Agreements involving illegal acts, unlawful activities,
+or restraint of trade are void.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 37-67
+CATEGORY: Contract Law
+KEYWORDS: performance of contract, contract obligations
+
+EXPLANATION:
+Explains how contracts should be performed and
+what happens if parties fail to perform.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 73-75
+CATEGORY: Contract Law
+KEYWORDS: breach of contract, damages, compensation
+
+EXPLANATION:
+The affected party can claim compensation for losses
+caused due to breach of contract.
+
+PUNISHMENT:
+Compensation and damages.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Sections 124-147
+CATEGORY: Contract Law
+KEYWORDS: indemnity, guarantee, guarantor liability
+
+EXPLANATION:
+Deals with promises to compensate for losses
+and responsibilities of guarantors.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Contract Law
+KEYWORDS: criminal breach of trust, misuse of entrusted property
+
+EXPLANATION:
+Dishonest misuse of entrusted money or property.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Contract Law
+KEYWORDS: cheating, contract fraud, dishonest inducement
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or property.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------

@@ -1,0 +1,493 @@
+
+SECTION: POSH Act 2013
+CATEGORY: POSH Law
+KEYWORDS: workplace harassment, office harassment, sexual harassment, safe workplace, ICC
+
+EXPLANATION:
+The POSH Act protects women from sexual harassment at workplaces including offices,
+schools, colleges, hospitals, factories, government offices, and online work environments.
+
+PUNISHMENT:
+Departmental inquiry, disciplinary action, suspension, termination, or criminal action depending on severity.
+
+BAIL:
+Depends on related IPC/BNS offence.
+
+COGNIZABLE:
+Depends on related IPC/BNS offence.
+
+COURT:
+Internal Complaints Committee (ICC), Labour Court, Magistrate Court
+
+DOCUMENTS:
+- Written complaint
+- Screenshots/messages
+- Witness statements
+- HR records
+
+PROCESS:
+Complaint → ICC Inquiry → Evidence Collection → Final Report → Employer Action
+
+----------------------------------------------------
+
+SECTION: IPC 354A / BNS
+CATEGORY: Sexual Harassment
+KEYWORDS: inappropriate touching, sexual remarks, sexual favour, pornography, harassment
+
+EXPLANATION:
+Sexual harassment including physical contact, sexual remarks,
+demanding sexual favours, or showing pornography.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+BAIL:
+Usually bailable depending on offence.
+
+COGNIZABLE:
+Yes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Chat screenshots
+- Witness statements
+- Audio/video proof
+
+PROCESS:
+FIR → Investigation → Chargesheet → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 354
+CATEGORY: Assault Against Woman
+KEYWORDS: assault, criminal force, molestation, physical harassment
+
+EXPLANATION:
+Using criminal force or assault against a woman intending to outrage her modesty.
+
+PUNISHMENT:
+1 to 5 years imprisonment and fine.
+
+BAIL:
+Non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Sessions Court / Magistrate Court
+
+DOCUMENTS:
+- Medical report
+- Witness statements
+- CCTV footage
+
+PROCESS:
+FIR → Medical Examination → Investigation → Court Trial
+
+----------------------------------------------------
+
+SECTION: IPC 354B
+CATEGORY: Assault With Intent To Disrobe
+KEYWORDS: disrobe, removing clothes, assault woman
+
+EXPLANATION:
+Assaulting or using criminal force with intent to disrobe a woman.
+
+PUNISHMENT:
+3 to 7 years imprisonment and fine.
+
+BAIL:
+Non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Sessions Court
+
+DOCUMENTS:
+- Medical evidence
+- Photographs
+- Witness statements
+
+PROCESS:
+FIR → Investigation → Court Proceedings
+
+----------------------------------------------------
+
+SECTION: IPC 354C
+CATEGORY: Voyeurism
+KEYWORDS: hidden camera, voyeurism, recording woman, privacy violation
+
+EXPLANATION:
+Watching or recording a woman engaging in a private act without consent.
+
+PUNISHMENT:
+1 to 7 years imprisonment and fine.
+
+BAIL:
+First offence may be bailable.
+
+COGNIZABLE:
+Yes
+
+COURT:
+Sessions Court
+
+DOCUMENTS:
+- Device evidence
+- Videos/images
+- Cyber forensic report
+
+PROCESS:
+Cyber Investigation → Device Seizure → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 354D
+CATEGORY: Stalking
+KEYWORDS: stalking, repeated messages, cyber stalking, following woman
+
+EXPLANATION:
+Repeatedly contacting, following, or monitoring a woman physically or online despite disinterest.
+
+PUNISHMENT:
+Up to 3 years imprisonment for first offence.
+
+BAIL:
+First offence bailable.
+
+COGNIZABLE:
+Yes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Call logs
+- Screenshots
+- Social media records
+
+PROCESS:
+Complaint → Investigation → Chargesheet → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 376
+CATEGORY: Rape
+KEYWORDS: rape, forced intercourse, sexual assault
+
+EXPLANATION:
+Sexual intercourse without consent or against the will of a woman.
+
+PUNISHMENT:
+Minimum 10 years imprisonment to life imprisonment.
+
+BAIL:
+Non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Sessions Court
+
+DOCUMENTS:
+- Medical examination
+- DNA evidence
+- Witness statements
+
+PROCESS:
+FIR → Medical Exam → Investigation → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 376C
+CATEGORY: Abuse of Authority
+KEYWORDS: authority abuse, sexual exploitation, workplace exploitation
+
+EXPLANATION:
+Sexual relations obtained by abusing official authority or position.
+
+PUNISHMENT:
+5 to 10 years imprisonment and fine.
+
+BAIL:
+Non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Sessions Court
+
+DOCUMENTS:
+- Workplace records
+- Witnesses
+- Communication proof
+
+PROCESS:
+Complaint → Investigation → Court Trial
+
+----------------------------------------------------
+
+SECTION: IPC 509
+CATEGORY: Insulting Modesty
+KEYWORDS: insulting dignity, offensive remarks, verbal abuse, gestures
+
+EXPLANATION:
+Words, gestures, or acts intended to insult the dignity or modesty of a woman.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+BAIL:
+Bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Audio recordings
+- Screenshots
+- Witnesses
+
+PROCESS:
+Complaint → Investigation → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 506
+CATEGORY: Criminal Intimidation
+KEYWORDS: threats, intimidation, blackmail, threatening messages
+
+EXPLANATION:
+Threatening a person with injury, reputation damage, or harm to create fear.
+
+PUNISHMENT:
+Up to 7 years imprisonment depending on severity.
+
+BAIL:
+Depends on threat severity.
+
+COGNIZABLE:
+Sometimes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Threat messages
+- Call recordings
+- Witnesses
+
+PROCESS:
+Complaint → FIR → Investigation → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 499
+CATEGORY: Defamation
+KEYWORDS: false allegations, reputation damage, defamation
+
+EXPLANATION:
+Making false statements that harm another person’s reputation.
+
+PUNISHMENT:
+Fine and/or imprisonment.
+
+BAIL:
+Bailable
+
+COGNIZABLE:
+No
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Written statements
+- Social media posts
+- Witness proof
+
+PROCESS:
+Private Complaint → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 500
+CATEGORY: Punishment for Defamation
+KEYWORDS: defamation punishment, false accusations
+
+EXPLANATION:
+Punishment provision for defamation offences under IPC.
+
+PUNISHMENT:
+Up to 2 years imprisonment and/or fine.
+
+BAIL:
+Bailable
+
+COGNIZABLE:
+No
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Evidence of defamatory content
+
+PROCESS:
+Complaint → Hearing → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 294
+CATEGORY: Obscene Acts
+KEYWORDS: obscene acts, vulgar songs, public obscenity
+
+EXPLANATION:
+Obscene acts or songs in public places causing annoyance.
+
+PUNISHMENT:
+Up to 3 months imprisonment and/or fine.
+
+BAIL:
+Bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Video proof
+- Witnesses
+
+PROCESS:
+Complaint → Investigation → Trial
+
+----------------------------------------------------
+
+SECTION: IPC 507
+CATEGORY: Anonymous Threats
+KEYWORDS: anonymous threats, fake accounts, threatening messages
+
+EXPLANATION:
+Criminal intimidation through anonymous communication or fake identities.
+
+PUNISHMENT:
+Additional punishment over Section 506 IPC.
+
+BAIL:
+Depends on associated offence.
+
+COGNIZABLE:
+Yes
+
+COURT:
+Magistrate Court
+
+DOCUMENTS:
+- Emails
+- IP logs
+- Cyber forensic evidence
+
+PROCESS:
+Cyber Investigation → Chargesheet → Trial
+
+----------------------------------------------------
+
+SECTION: IT Act 66E
+CATEGORY: Cyber Privacy Violation
+KEYWORDS: privacy violation, private images, cyber harassment
+
+EXPLANATION:
+Violation of privacy through capturing or sharing private images without consent.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+BAIL:
+Bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Cyber Crime Court
+
+DOCUMENTS:
+- Screenshots
+- Device evidence
+- URLs
+
+PROCESS:
+Cyber Complaint → Digital Investigation → Trial
+
+----------------------------------------------------
+
+SECTION: IT Act 67
+CATEGORY: Obscene Electronic Content
+KEYWORDS: obscene messages, obscene images, online abuse
+
+EXPLANATION:
+Publishing or transmitting obscene material electronically.
+
+PUNISHMENT:
+Up to 5 years imprisonment and fine.
+
+BAIL:
+Generally non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Cyber Crime Court
+
+DOCUMENTS:
+- Chat logs
+- URLs
+- Device records
+
+PROCESS:
+Cyber Investigation → Chargesheet → Trial
+
+----------------------------------------------------
+
+SECTION: IT Act 67A
+CATEGORY: Sexually Explicit Content
+KEYWORDS: explicit videos, sexual content online, explicit material
+
+EXPLANATION:
+Publishing or transmitting sexually explicit material electronically.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+BAIL:
+Non-bailable
+
+COGNIZABLE:
+Yes
+
+COURT:
+Cyber Crime Court
+
+DOCUMENTS:
+- Electronic evidence
+- Server logs
+- Screenshots
+
+PROCESS:
+Cyber Complaint → Investigation → Court Proceedings
+
+----------------------------------------------------

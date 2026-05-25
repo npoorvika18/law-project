@@ -1,0 +1,89 @@
+SECTION: IPC 264-267
+CATEGORY: Consumer Law
+KEYWORDS: fake weights, wrong measurements, cheating customers
+
+EXPLANATION:
+Using false weights or measuring instruments while selling goods.
+
+PUNISHMENT:
+Fine and imprisonment depending on offence.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 272-273
+CATEGORY: Consumer Law
+KEYWORDS: adulterated food, unsafe food, harmful drinks
+
+EXPLANATION:
+Mixing harmful substances in food or drinks meant for sale.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Food Safety Court / Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 274-276
+CATEGORY: Consumer Law
+KEYWORDS: fake medicine, adulterated drugs, unsafe medicines
+
+EXPLANATION:
+Selling fake, adulterated, or harmful medicines.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Drug Control Court / Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 403
+CATEGORY: Consumer Law
+KEYWORDS: dishonest use, misuse of property
+
+EXPLANATION:
+Dishonest use of another person's property for personal gain.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Consumer Law
+KEYWORDS: fraud, cheating, fake seller, online scam
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or property.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Consumer Protection Act 2019
+CATEGORY: Consumer Law
+KEYWORDS: refund, replacement, defective product, consumer complaint
+
+EXPLANATION:
+Protects consumers against defective products and unfair trade practices.
+
+PUNISHMENT:
+Refund, compensation, replacement, penalties.
+
+COURT:
+Consumer Disputes Redressal Commission
+
+----------------------------------------------------
