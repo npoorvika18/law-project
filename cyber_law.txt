@@ -1,0 +1,510 @@
+SECTION: IT Act Section 66F
+CATEGORY: Cyber Law
+KEYWORDS: cyber terrorism, national security hacking
+
+EXPLANATION:
+Cyber attacks threatening sovereignty, integrity,
+security, or national security of India.
+
+PUNISHMENT:
+Up to life imprisonment.
+
+COURT:
+Special Cyber Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 67C
+CATEGORY: Cyber Law
+KEYWORDS: data retention, intermediary records
+
+EXPLANATION:
+Intermediaries must preserve and retain information
+for investigation purposes.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 69
+CATEGORY: Cyber Law
+KEYWORDS: interception, monitoring, encrypted data
+
+EXPLANATION:
+Government power to intercept, monitor,
+or decrypt digital information.
+
+COURT:
+Special Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 70
+CATEGORY: Cyber Law
+KEYWORDS: protected systems, critical infrastructure hacking
+
+EXPLANATION:
+Unauthorized access to protected government computer systems.
+
+PUNISHMENT:
+Up to 10 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 72
+CATEGORY: Cyber Law
+KEYWORDS: privacy breach, confidential data leak
+
+EXPLANATION:
+Unauthorized disclosure of confidential electronic records.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 72A
+CATEGORY: Cyber Law
+KEYWORDS: personal data misuse, data privacy violation
+
+EXPLANATION:
+Disclosure of personal information obtained under lawful contract.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IPC 354A
+CATEGORY: Cyber Law
+KEYWORDS: online sexual harassment, obscene messages
+
+EXPLANATION:
+Sexual harassment through electronic communication.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354C
+CATEGORY: Cyber Law
+KEYWORDS: voyeurism, hidden recording, private video leak
+
+EXPLANATION:
+Capturing or sharing private images of women without consent.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354D
+CATEGORY: Cyber Law
+KEYWORDS: cyber stalking, online stalking, repeated messages
+
+EXPLANATION:
+Monitoring or contacting a woman repeatedly through internet
+or electronic communication.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 384
+CATEGORY: Cyber Law
+KEYWORDS: online blackmail, sextortion, extortion
+
+EXPLANATION:
+Extortion through threats, including digital blackmail.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 503
+CATEGORY: Cyber Law
+KEYWORDS: online threats, intimidation, threatening messages
+
+EXPLANATION:
+Criminal intimidation through digital communication.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 507
+CATEGORY: Cyber Law
+KEYWORDS: anonymous threats, fake account threats
+
+EXPLANATION:
+Criminal intimidation through anonymous communication.
+
+PUNISHMENT:
+Additional imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: RBI Digital Payment Guidelines
+CATEGORY: Cyber Law
+KEYWORDS: UPI fraud, banking fraud, unauthorized transactions
+
+EXPLANATION:
+Victims of unauthorized digital banking transactions
+may get reimbursement under RBI guidelines.
+
+COURT:
+Banking Ombudsman / Consumer Court
+
+----------------------------------------------------
+
+SECTION: Article 19(1)(a)
+CATEGORY: Constitutional Rights
+KEYWORDS: freedom of speech, online communication
+
+EXPLANATION:
+Freedom of speech applies to digital communication platforms.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: privacy, digital privacy, personal liberty
+
+EXPLANATION:
+Right to privacy is protected under Article 21.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+SECTION: IT Act Section 43
+CATEGORY: Cyber Law
+KEYWORDS: unauthorized access, data theft, system damage
+
+EXPLANATION:
+Unauthorized access, downloading data, introducing viruses,
+or damaging computer systems.
+
+PUNISHMENT:
+Compensation for damages.
+
+COURT:
+Cyber Appellate Tribunal / Civil Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 65
+CATEGORY: Cyber Law
+KEYWORDS: tampering source code, computer source manipulation
+
+EXPLANATION:
+Knowingly altering or destroying computer source code.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 66
+CATEGORY: Cyber Law
+KEYWORDS: hacking, cyber attack, unauthorized access
+
+EXPLANATION:
+Dishonest or fraudulent hacking of computer systems.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 66B
+CATEGORY: Cyber Law
+KEYWORDS: stolen computer device, stolen data
+
+EXPLANATION:
+Receiving stolen computer resources or communication devices.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 66C
+CATEGORY: Cyber Law
+KEYWORDS: identity theft, fake profile, password theft
+
+EXPLANATION:
+Fraudulent use of electronic signatures, passwords,
+or digital identity.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 66D
+CATEGORY: Cyber Law
+KEYWORDS: phishing, online scam, fake website, impersonation
+
+EXPLANATION:
+Cheating by personation using computer resources.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 66E
+CATEGORY: Cyber Law
+KEYWORDS: privacy violation, private photos, hidden camera
+
+EXPLANATION:
+Violation of privacy by capturing or sharing private images
+without consent.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 67
+CATEGORY: Cyber Law
+KEYWORDS: obscene content, obscene messages, online abuse
+
+EXPLANATION:
+Publishing or transmitting obscene material electronically.
+
+PUNISHMENT:
+Up to 5 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 67A
+CATEGORY: Cyber Law
+KEYWORDS: explicit content, sexual videos, obscene media
+
+EXPLANATION:
+Publishing sexually explicit electronic content.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act Section 67B
+CATEGORY: Cyber Law
+KEYWORDS: child pornography, child abuse content
+
+EXPLANATION:
+Publishing or browsing sexually explicit material involving children.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IPC 419
+CATEGORY: Cyber Law
+KEYWORDS: impersonation, fake identity, online impersonation
+
+EXPLANATION:
+Cheating by pretending to be another person.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Cyber Law
+KEYWORDS: cyber fraud, online cheating, ecommerce fraud
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or property.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 463
+CATEGORY: Cyber Law
+KEYWORDS: digital forgery, fake electronic records
+
+EXPLANATION:
+Forgery involving electronic documents or records.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 468
+CATEGORY: Cyber Law
+KEYWORDS: forgery for cheating, fake online documents
+
+EXPLANATION:
+Forgery committed specifically for cheating purposes.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 469
+CATEGORY: Cyber Law
+KEYWORDS: fake social media posts, reputation damage
+
+EXPLANATION:
+Forgery intended to harm reputation.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 499
+CATEGORY: Cyber Law
+KEYWORDS: online defamation, fake allegations
+
+EXPLANATION:
+Making false statements harming another person's reputation.
+
+PUNISHMENT:
+Fine and/or imprisonment.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 500
+CATEGORY: Cyber Law
+KEYWORDS: punishment for defamation
+
+EXPLANATION:
+Punishment provision for defamation offences.
+
+PUNISHMENT:
+Up to 2 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 19(1)(a)
+CATEGORY: Constitutional Rights
+KEYWORDS: freedom of speech, online expression
+
+EXPLANATION:
+Freedom of speech and expression including digital communication.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: privacy rights, digital privacy, life and liberty
+
+EXPLANATION:
+Protection of life, liberty, and privacy rights.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
