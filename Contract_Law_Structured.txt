@@ -127,3 +127,179 @@ COURT:
 Criminal Court
 
 ----------------------------------------------------
+SECTION: IPC 405
+CATEGORY: Contract Law
+KEYWORDS: breach of trust, entrusted money misuse
+
+EXPLANATION:
+Dishonest misuse of property or money entrusted to someone.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Contract Law
+KEYWORDS: criminal breach of trust, misuse of entrusted property
+
+EXPLANATION:
+Punishment for criminal breach of trust.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 415
+CATEGORY: Contract Law
+KEYWORDS: cheating, deception, fraud
+
+EXPLANATION:
+Dishonestly deceiving a person to gain unfair advantage.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Contract Law
+KEYWORDS: cheating, contract fraud, dishonest inducement
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or property.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 463
+CATEGORY: Contract Law
+KEYWORDS: forgery, fake document, forged agreement
+
+EXPLANATION:
+Creating false documents or electronic records with intent to cheat.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 468
+CATEGORY: Contract Law
+KEYWORDS: forged contract, forgery for cheating
+
+EXPLANATION:
+Forgery committed specifically for cheating purposes.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 471
+CATEGORY: Contract Law
+KEYWORDS: fake agreement use, forged document usage
+
+EXPLANATION:
+Using forged documents as genuine documents.
+
+PUNISHMENT:
+Same punishment as forgery.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 73
+CATEGORY: Contract Law
+KEYWORDS: breach damages, compensation
+
+EXPLANATION:
+Compensation can be claimed for losses caused by breach of contract.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 124
+CATEGORY: Contract Law
+KEYWORDS: indemnity, compensation agreement
+
+EXPLANATION:
+One party promises to compensate another for losses.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 126
+CATEGORY: Contract Law
+KEYWORDS: guarantee, guarantor, surety
+
+EXPLANATION:
+Defines contracts of guarantee and liability of sureties.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law, equal protection
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 19(1)(g)
+CATEGORY: Constitutional Rights
+KEYWORDS: business rights, profession rights, trade rights
+
+EXPLANATION:
+Freedom to practice any profession or business.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: personal liberty, legal protection
+
+EXPLANATION:
+Protection of life and personal liberty.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
