@@ -1,0 +1,312 @@
+SECTION: Transfer of Property Act Section 105
+CATEGORY: Tenancy Law
+KEYWORDS: lease definition, landlord tenant relationship
+
+EXPLANATION:
+Defines lease of immovable property and rights of landlord and tenant.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Transfer of Property Act Section 106
+CATEGORY: Tenancy Law
+KEYWORDS: eviction notice, lease termination notice
+
+EXPLANATION:
+Defines duration and notice requirements for termination of lease.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Transfer of Property Act Section 107
+CATEGORY: Tenancy Law
+KEYWORDS: lease agreement registration, written lease
+
+EXPLANATION:
+Leases above one year generally require registered agreement.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Transfer of Property Act Section 108
+CATEGORY: Tenancy Law
+KEYWORDS: landlord duties, tenant rights, property maintenance
+
+EXPLANATION:
+Specifies rights and liabilities of lessor and lessee.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Karnataka Rent Act 1999
+CATEGORY: Tenancy Law
+KEYWORDS: rent control, tenant protection, eviction rules
+
+EXPLANATION:
+Regulates rent, eviction procedures, and rights of tenants
+and landlords in Karnataka.
+
+COURT:
+Rent Court
+
+----------------------------------------------------
+
+SECTION: IPC 268
+CATEGORY: Tenancy Law
+KEYWORDS: public nuisance, tenant nuisance
+
+EXPLANATION:
+Acts causing nuisance affecting public or neighbours.
+
+PUNISHMENT:
+Fine and/or imprisonment.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 403
+CATEGORY: Tenancy Law
+KEYWORDS: dishonest property misuse, rental property misuse
+
+EXPLANATION:
+Dishonest misappropriation of movable property.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 405
+CATEGORY: Tenancy Law
+KEYWORDS: breach of trust, deposit misuse
+
+EXPLANATION:
+Dishonest misuse of entrusted property or money.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Tenancy Law
+KEYWORDS: security deposit fraud, landlord breach of trust
+
+EXPLANATION:
+Punishment for criminal breach of trust involving deposits
+or entrusted property.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 415
+CATEGORY: Tenancy Law
+KEYWORDS: cheating tenant, fake rental agreement
+
+EXPLANATION:
+Dishonest deception causing wrongful loss.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Tenancy Law
+KEYWORDS: rental scam, fake landlord, advance fraud
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 441
+CATEGORY: Tenancy Law
+KEYWORDS: criminal trespass, illegal entry
+
+EXPLANATION:
+Entering property unlawfully with criminal intent.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 442
+CATEGORY: Tenancy Law
+KEYWORDS: house trespass, illegal house entry
+
+EXPLANATION:
+Criminal trespass into building or residence.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 448
+CATEGORY: Tenancy Law
+KEYWORDS: house trespass punishment, forced entry
+
+EXPLANATION:
+Punishment for house trespass.
+
+PUNISHMENT:
+Up to 1 year imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 503
+CATEGORY: Tenancy Law
+KEYWORDS: landlord threats, tenant intimidation
+
+EXPLANATION:
+Criminal intimidation through threats or coercion.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 506
+CATEGORY: Tenancy Law
+KEYWORDS: criminal intimidation, eviction threats
+
+EXPLANATION:
+Punishment for criminal intimidation.
+
+PUNISHMENT:
+Up to 7 years imprisonment depending on severity.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: CPC Order 39 Rules 1 & 2
+CATEGORY: Tenancy Law
+KEYWORDS: temporary injunction, stay order, illegal eviction stay
+
+EXPLANATION:
+Court may grant temporary injunction against illegal eviction
+or interference with possession.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Specific Relief Act Section 5
+CATEGORY: Tenancy Law
+KEYWORDS: possession recovery, tenant possession rights
+
+EXPLANATION:
+Lawful recovery of possession of immovable property.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Specific Relief Act Section 6
+CATEGORY: Tenancy Law
+KEYWORDS: illegal dispossession, forcible eviction
+
+EXPLANATION:
+Person dispossessed without consent may recover possession
+through court.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Registration Act 1908
+CATEGORY: Tenancy Law
+KEYWORDS: lease registration, rental agreement registration
+
+EXPLANATION:
+Certain lease agreements require compulsory registration.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: shelter rights, dignity, personal liberty
+
+EXPLANATION:
+Right to life includes dignity and shelter protections.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 300A
+CATEGORY: Constitutional Rights
+KEYWORDS: property rights, lawful eviction
+
+EXPLANATION:
+No person can be deprived of property except by authority of law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
