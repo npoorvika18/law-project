@@ -1,0 +1,567 @@
+SECTION: Negotiable Instruments Act Section 138
+CATEGORY: Money Recovery Law
+KEYWORDS: cheque bounce, dishonoured cheque, insufficient funds
+
+EXPLANATION:
+Cheque dishonour due to insufficient balance is a criminal offence
+after failure to pay within legal notice period.
+
+PUNISHMENT:
+Up to 2 years imprisonment and/or fine up to double cheque amount.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Negotiable Instruments Act Section 139
+CATEGORY: Money Recovery Law
+KEYWORDS: cheque liability, presumption of debt
+
+EXPLANATION:
+Court presumes cheque was issued for repayment of legally enforceable debt.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Negotiable Instruments Act Section 140
+CATEGORY: Money Recovery Law
+KEYWORDS: cheque bounce defence, dishonour liability
+
+EXPLANATION:
+Drawer cannot escape liability merely claiming lack of knowledge.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Negotiable Instruments Act Section 141
+CATEGORY: Money Recovery Law
+KEYWORDS: company cheque bounce, director liability
+
+EXPLANATION:
+Company directors may be liable for cheque bounce offences.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: CPC Order 37
+CATEGORY: Money Recovery Law
+KEYWORDS: summary suit, fast recovery, debt recovery
+
+EXPLANATION:
+Provides speedy recovery procedure for debts and written contracts.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 73
+CATEGORY: Money Recovery Law
+KEYWORDS: breach damages, compensation recovery
+
+EXPLANATION:
+Compensation can be claimed for losses caused by breach of contract.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 124
+CATEGORY: Money Recovery Law
+KEYWORDS: indemnity, compensation agreement
+
+EXPLANATION:
+Promise to compensate another party for losses.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: IPC 403
+CATEGORY: Money Recovery Law
+KEYWORDS: dishonest misappropriation, money misuse
+
+EXPLANATION:
+Dishonest use or conversion of another person's property or money.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 405
+CATEGORY: Money Recovery Law
+KEYWORDS: criminal breach of trust, entrusted money misuse
+
+EXPLANATION:
+Dishonest misuse of entrusted money or property.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Money Recovery Law
+KEYWORDS: breach of trust punishment, financial fraud
+
+EXPLANATION:
+Punishment for criminal breach of trust.
+
+PUNISHMENT:
+Up to 3 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 415
+CATEGORY: Money Recovery Law
+KEYWORDS: cheating, financial deception, fraud
+
+EXPLANATION:
+Dishonestly deceiving a person for wrongful financial gain.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 420
+CATEGORY: Money Recovery Law
+KEYWORDS: loan fraud, cheating, fake promise, financial scam
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or property.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 421
+CATEGORY: Money Recovery Law
+KEYWORDS: fraudulent property transfer, avoiding debt payment
+
+EXPLANATION:
+Dishonest transfer or concealment of property to avoid creditors.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 422
+CATEGORY: Money Recovery Law
+KEYWORDS: fraudulent debt avoidance, hiding assets
+
+EXPLANATION:
+Fraudulently preventing debt distribution among creditors.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 423
+CATEGORY: Money Recovery Law
+KEYWORDS: fake transfer deed, fraudulent financial transfer
+
+EXPLANATION:
+Dishonest execution of transfer deeds to defeat legal claims.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 463
+CATEGORY: Money Recovery Law
+KEYWORDS: forged financial documents, fake agreements
+
+EXPLANATION:
+Forgery of financial or legal documents.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 467
+CATEGORY: Money Recovery Law
+KEYWORDS: forged cheque, fake financial security
+
+EXPLANATION:
+Forgery of valuable securities, cheques, or financial documents.
+
+PUNISHMENT:
+Up to life imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 468
+CATEGORY: Money Recovery Law
+KEYWORDS: forgery for cheating, fake repayment documents
+
+EXPLANATION:
+Forgery intended for cheating or financial fraud.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 471
+CATEGORY: Money Recovery Law
+KEYWORDS: using forged cheque, fake financial records
+
+EXPLANATION:
+Using forged documents as genuine documents.
+
+PUNISHMENT:
+Same punishment as forgery.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: SARFAESI Act 2002
+CATEGORY: Money Recovery Law
+KEYWORDS: secured loan recovery, bank property seizure
+
+EXPLANATION:
+Banks can recover secured loans without court intervention
+in certain cases.
+
+COURT:
+Debt Recovery Tribunal
+
+----------------------------------------------------
+
+SECTION: Recovery of Debts and Bankruptcy Act
+CATEGORY: Money Recovery Law
+KEYWORDS: debt tribunal, bank recovery, financial institution recovery
+
+EXPLANATION:
+Provides procedure for recovery of debts by banks
+and financial institutions.
+
+COURT:
+Debt Recovery Tribunal
+
+----------------------------------------------------
+
+SECTION: RBI Banking Ombudsman Scheme
+CATEGORY: Money Recovery Law
+KEYWORDS: bank complaint, unauthorized deduction, banking dispute
+
+EXPLANATION:
+Customers can file complaints against banking service deficiencies.
+
+COURT:
+Banking Ombudsman
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: legal protection, life and liberty
+
+EXPLANATION:
+Protection of life and personal liberty under Constitution.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 39A
+CATEGORY: Constitutional Rights
+KEYWORDS: legal aid, equal justice
+
+EXPLANATION:
+Provides equal justice and free legal aid.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+SECTION: Negotiable Instruments Act Section 142
+CATEGORY: Money Recovery Law
+KEYWORDS: cheque bounce complaint filing, limitation period
+
+EXPLANATION:
+Procedure and limitation period for filing cheque bounce complaints.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 126
+CATEGORY: Money Recovery Law
+KEYWORDS: guarantee, guarantor liability, surety
+
+EXPLANATION:
+Defines contracts of guarantee and liability of guarantors.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 127
+CATEGORY: Money Recovery Law
+KEYWORDS: consideration for guarantee, surety agreement
+
+EXPLANATION:
+Consideration benefiting principal debtor is sufficient
+for guarantee contracts.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Indian Contract Act Section 128
+CATEGORY: Money Recovery Law
+KEYWORDS: surety liability, guarantor repayment
+
+EXPLANATION:
+Liability of guarantor is co-extensive with principal debtor.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: CPC Section 51
+CATEGORY: Money Recovery Law
+KEYWORDS: execution decree, recovery execution, arrest debtor
+
+EXPLANATION:
+Court may enforce recovery decree through attachment,
+arrest, or property sale.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: CPC Order 21
+CATEGORY: Money Recovery Law
+KEYWORDS: attachment of property, execution proceedings
+
+EXPLANATION:
+Procedure for execution of decrees and attachment of assets.
+
+COURT:
+Civil Court
+
+----------------------------------------------------
+
+SECTION: Arbitration and Conciliation Act 1996
+CATEGORY: Money Recovery Law
+KEYWORDS: arbitration recovery, commercial dispute settlement
+
+EXPLANATION:
+Commercial money disputes may be resolved through arbitration.
+
+COURT:
+Arbitration Tribunal / Commercial Court
+
+----------------------------------------------------
+
+SECTION: Insolvency and Bankruptcy Code 2016
+CATEGORY: Money Recovery Law
+KEYWORDS: insolvency, bankruptcy, unpaid debt
+
+EXPLANATION:
+Provides insolvency resolution process for individuals
+and companies unable to repay debts.
+
+COURT:
+NCLT / DRT
+
+----------------------------------------------------
+
+SECTION: IPC 384
+CATEGORY: Money Recovery Law
+KEYWORDS: extortion, illegal recovery threats
+
+EXPLANATION:
+Recovering money through threats or coercion is extortion.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 403
+CATEGORY: Money Recovery Law
+KEYWORDS: dishonest money retention, financial misuse
+
+EXPLANATION:
+Dishonest retention or misuse of another person's money.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 409
+CATEGORY: Money Recovery Law
+KEYWORDS: banker fraud, agent fraud, entrusted funds misuse
+
+EXPLANATION:
+Criminal breach of trust by banker, public servant,
+or agent handling entrusted funds.
+
+PUNISHMENT:
+Up to life imprisonment or 10 years imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 477A
+CATEGORY: Money Recovery Law
+KEYWORDS: fake accounts, falsified financial records
+
+EXPLANATION:
+Falsification of business or financial accounts.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IT Act 66C
+CATEGORY: Money Recovery Law
+KEYWORDS: digital payment fraud, identity theft, OTP fraud
+
+EXPLANATION:
+Fraudulent use of passwords, OTPs, or digital identity.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: IT Act 66D
+CATEGORY: Money Recovery Law
+KEYWORDS: online banking fraud, UPI scam, phishing
+
+EXPLANATION:
+Cheating through computer resources or digital impersonation.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+----------------------------------------------------
+
+SECTION: RBI Digital Transaction Guidelines
+CATEGORY: Money Recovery Law
+KEYWORDS: unauthorized bank transaction, UPI reversal
+
+EXPLANATION:
+Victims of unauthorized banking transactions may receive
+limited liability protection and reimbursement.
+
+COURT:
+Banking Ombudsman / Consumer Court
+
+----------------------------------------------------
+
+SECTION: Article 19(1)(g)
+CATEGORY: Constitutional Rights
+KEYWORDS: trade rights, business recovery rights
+
+EXPLANATION:
+Freedom to practice trade, profession, and business activities.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 300A
+CATEGORY: Constitutional Rights
+KEYWORDS: property attachment, legal recovery rights
+
+EXPLANATION:
+No person can be deprived of property except by authority of law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
