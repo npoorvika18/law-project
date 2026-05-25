@@ -1,0 +1,499 @@
+SECTION: IPC 423
+CATEGORY: Property Law
+KEYWORDS: fraudulent property transfer, fake consideration
+
+EXPLANATION:
+Dishonest or fraudulent execution of property transfer deeds.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 424
+CATEGORY: Property Law
+KEYWORDS: hiding property, fraudulent removal of property
+
+EXPLANATION:
+Dishonestly hiding or removing property to avoid legal claims.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 425
+CATEGORY: Property Law
+KEYWORDS: property damage, vandalism, mischief
+
+EXPLANATION:
+Causing wrongful damage to another person's property.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 427
+CATEGORY: Property Law
+KEYWORDS: destruction of property, heavy property damage
+
+EXPLANATION:
+Mischief causing damage above specified value.
+
+PUNISHMENT:
+Up to 2 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 463
+CATEGORY: Property Law
+KEYWORDS: forged property papers, fake documents
+
+EXPLANATION:
+Forgery of legal or property documents.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 465
+CATEGORY: Property Law
+KEYWORDS: fake sale deed, forged agreement
+
+EXPLANATION:
+Punishment for forgery offences.
+
+PUNISHMENT:
+Up to 2 years imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 467
+CATEGORY: Property Law
+KEYWORDS: forged sale deed, forged will, fake property registration
+
+EXPLANATION:
+Forgery of valuable security, wills, or property documents.
+
+PUNISHMENT:
+Up to life imprisonment.
+
+COURT:
+Sessions Court
+
+
+---
+
+SECTION: IPC 468
+CATEGORY: Property Law
+KEYWORDS: forgery for cheating, fake property records
+
+EXPLANATION:
+Forgery committed specifically for cheating purposes.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 471
+CATEGORY: Property Law
+KEYWORDS: using fake documents, forged deed usage
+
+EXPLANATION:
+Using forged property documents as genuine.
+
+PUNISHMENT:
+Same punishment as forgery.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 503
+CATEGORY: Property Law
+KEYWORDS: threats over property, intimidation, land threats
+
+EXPLANATION:
+Criminal intimidation relating to property disputes.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 506
+CATEGORY: Property Law
+KEYWORDS: threatening landowner, criminal intimidation
+
+EXPLANATION:
+Punishment for criminal intimidation.
+
+PUNISHMENT:
+Up to 7 years imprisonment depending on severity.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: CPC Order 39 Rules 1 & 2
+CATEGORY: Property Law
+KEYWORDS: temporary injunction, stay order, property stay
+
+EXPLANATION:
+Court may grant temporary injunction to prevent illegal construction,
+sale, or interference with property.
+
+COURT:
+Civil Court
+
+
+---
+
+SECTION: Specific Relief Act Section 38
+CATEGORY: Property Law
+KEYWORDS: permanent injunction, restraining order
+
+EXPLANATION:
+Court may permanently restrain unlawful interference with property rights.
+
+COURT:
+Civil Court
+
+
+---
+
+SECTION: Hindu Succession Act 1956
+CATEGORY: Property Law
+KEYWORDS: inheritance, ancestral property, legal heirs
+
+EXPLANATION:
+Defines inheritance rights and succession among Hindu families.
+
+COURT:
+Civil Court / Family Court
+
+
+---
+
+SECTION: Indian Succession Act 1925
+CATEGORY: Property Law
+KEYWORDS: will, probate, succession certificate
+
+EXPLANATION:
+Governs wills, probate, and inheritance matters.
+
+COURT:
+Civil Court
+
+
+---
+
+SECTION: Article 300A
+CATEGORY: Constitutional Rights
+KEYWORDS: right to property, deprivation of property
+
+EXPLANATION:
+No person can be deprived of property except by authority of law.
+
+COURT:
+High Court / Supreme Court
+
+
+---
+
+SECTION: Consumer Protection Act 2019 Section 2(7)
+CATEGORY: Consumer Law
+KEYWORDS: consumer definition, buyer rights
+
+EXPLANATION:
+Defines who is considered a consumer under the Act.
+
+COURT:
+Consumer Commission
+
+
+---
+
+SECTION: Consumer Protection Act 2019 Section 2(47)
+CATEGORY: Consumer Law
+KEYWORDS: unfair trade practice, false claims, fake offers
+
+EXPLANATION:
+Unfair trade practices include misleading advertisements,
+false representations, and deceptive sales tactics.
+
+PUNISHMENT:
+Penalty and compensation.
+
+COURT:
+Consumer Commission
+
+
+---
+
+SECTION: Consumer Protection Act 2019 Section 35
+CATEGORY: Consumer Law
+KEYWORDS: consumer complaint, district commission
+
+EXPLANATION:
+Consumers can file complaints before the District Consumer Commission.
+
+COURT:
+District Consumer Disputes Redressal Commission
+
+
+---
+
+SECTION: Consumer Protection Act 2019 Section 82
+CATEGORY: Consumer Law
+KEYWORDS: misleading advertisement, fake advertisement
+
+EXPLANATION:
+Punishment for false or misleading advertisements.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Consumer Commission
+
+
+---
+
+SECTION: Consumer Protection Act 2019 Section 83
+CATEGORY: Consumer Law
+KEYWORDS: product liability, defective products
+
+EXPLANATION:
+Manufacturers and sellers may be liable for defective products.
+
+PUNISHMENT:
+Compensation and damages.
+
+COURT:
+Consumer Commission
+
+
+---
+
+SECTION: IPC 272
+CATEGORY: Consumer Law
+KEYWORDS: adulterated food, unsafe food
+
+EXPLANATION:
+Adulterating food or drink intended for sale.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Food Safety Court
+
+
+---
+
+SECTION: IPC 273
+CATEGORY: Consumer Law
+KEYWORDS: harmful food, dangerous drinks
+
+EXPLANATION:
+Selling harmful or noxious food or drinks.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Food Safety Court
+
+
+---
+
+SECTION: IPC 274
+CATEGORY: Consumer Law
+KEYWORDS: adulterated medicine, fake medicine
+
+EXPLANATION:
+Adulteration of drugs or medicines.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Drug Control Court
+
+
+---
+
+SECTION: IPC 275
+CATEGORY: Consumer Law
+KEYWORDS: fake medicine sale, adulterated drugs sale
+
+EXPLANATION:
+Selling adulterated or fake medicines knowingly.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Drug Control Court
+
+
+---
+
+SECTION: IPC 276
+CATEGORY: Consumer Law
+KEYWORDS: fake drugs, medicine fraud
+
+EXPLANATION:
+Selling drugs as different medicines fraudulently.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Drug Control Court
+
+
+---
+
+SECTION: IPC 415
+CATEGORY: Consumer Law
+KEYWORDS: cheating, deception, fraud
+
+EXPLANATION:
+Dishonestly deceiving consumers for wrongful gain.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: IPC 420
+CATEGORY: Consumer Law
+KEYWORDS: online scam, fake seller, ecommerce fraud
+
+EXPLANATION:
+Cheating and dishonestly inducing delivery of money or goods.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+
+---
+
+SECTION: Legal Metrology Act 2009
+CATEGORY: Consumer Law
+KEYWORDS: fake weights, wrong measurements, weighing fraud
+
+EXPLANATION:
+Protects consumers against false weights and measurements.
+
+PUNISHMENT:
+Fine and imprisonment.
+
+COURT:
+Metrology Court
+
+
+---
+
+SECTION: IT Act 66D
+CATEGORY: Consumer Law
+KEYWORDS: online shopping fraud, phishing, fake ecommerce
+
+EXPLANATION:
+Cheating by impersonation using computer resources.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Cyber Crime Court
+
+
+---
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection under law.
+
+COURT:
+High Court / Supreme Court
+
+
+---
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: life, safety, consumer safety
+
+EXPLANATION:
+Protection of life and personal liberty including consumer safety.
+
+COURT:
+High Court / Supreme Court
+
+
+---
+
+SECTION: Article 39A
+CATEGORY: Constitutional Rights
+KEYWORDS: legal aid, equal justice
+
+EXPLANATION:
+Equal justice and free legal aid for citizens.
+
+COURT:
+High Court / Supreme Court
+
+
+---
