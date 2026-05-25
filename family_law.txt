@@ -1,0 +1,421 @@
+SECTION: Hindu Marriage Act Section 5
+CATEGORY: Family Law
+KEYWORDS: valid marriage, marriage conditions, hindu marriage
+
+EXPLANATION:
+Defines legal conditions for a valid Hindu marriage.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Marriage Act Section 9
+CATEGORY: Family Law
+KEYWORDS: restitution of conjugal rights, spouse return
+
+EXPLANATION:
+A spouse may seek restoration of marital relationship
+if the other spouse withdraws without valid reason.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Marriage Act Section 13
+CATEGORY: Family Law
+KEYWORDS: divorce, cruelty, adultery, separation
+
+EXPLANATION:
+Provides grounds for divorce including cruelty,
+desertion, adultery, and conversion.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Marriage Act Section 24
+CATEGORY: Family Law
+KEYWORDS: interim maintenance, legal expenses
+
+EXPLANATION:
+Court may grant temporary maintenance and litigation expenses.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Marriage Act Section 25
+CATEGORY: Family Law
+KEYWORDS: permanent alimony, spouse maintenance
+
+EXPLANATION:
+Court may award permanent alimony and maintenance.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Adoption and Maintenance Act Section 18
+CATEGORY: Family Law
+KEYWORDS: wife maintenance, spouse support
+
+EXPLANATION:
+Wife is entitled to maintenance under certain circumstances.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Hindu Succession Act 1956
+CATEGORY: Family Law
+KEYWORDS: inheritance, ancestral property, legal heirs
+
+EXPLANATION:
+Defines inheritance rights among Hindu family members.
+
+COURT:
+Civil Court / Family Court
+
+----------------------------------------------------
+
+SECTION: Guardians and Wards Act 1890
+CATEGORY: Family Law
+KEYWORDS: child custody, guardian rights
+
+EXPLANATION:
+Court decides guardianship and welfare of minors.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: CrPC Section 125
+CATEGORY: Family Law
+KEYWORDS: maintenance, wife support, child support
+
+EXPLANATION:
+Wife, children, and parents unable to maintain themselves
+may claim maintenance.
+
+COURT:
+Family Court / Magistrate Court
+
+----------------------------------------------------
+
+SECTION: IPC 304B
+CATEGORY: Family Law
+KEYWORDS: dowry death, dowry harassment
+
+EXPLANATION:
+Death of woman due to dowry harassment within marriage.
+
+PUNISHMENT:
+Minimum 7 years imprisonment up to life imprisonment.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 306
+CATEGORY: Family Law
+KEYWORDS: abetment of suicide, marital cruelty
+
+EXPLANATION:
+Abetting suicide including through cruelty or harassment.
+
+PUNISHMENT:
+Up to 10 years imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 313
+CATEGORY: Family Law
+KEYWORDS: forced miscarriage, abortion without consent
+
+EXPLANATION:
+Causing miscarriage without woman's consent.
+
+PUNISHMENT:
+Life imprisonment or imprisonment up to 10 years.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: IPC 354
+CATEGORY: Family Law
+KEYWORDS: assault on woman, outraging modesty
+
+EXPLANATION:
+Assault or criminal force against woman with intent
+to outrage modesty.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 354A
+CATEGORY: Family Law
+KEYWORDS: sexual harassment, inappropriate behaviour
+
+EXPLANATION:
+Sexual harassment including unwelcome physical contact
+or remarks.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 406
+CATEGORY: Family Law
+KEYWORDS: dowry articles, stridhan misuse
+
+EXPLANATION:
+Criminal breach of trust involving dowry or stridhan property.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 494
+CATEGORY: Family Law
+KEYWORDS: second marriage, bigamy
+
+EXPLANATION:
+Marrying again during lifetime of spouse is an offence.
+
+PUNISHMENT:
+Up to 7 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: IPC 498A
+CATEGORY: Family Law
+KEYWORDS: cruelty by husband, dowry harassment, abuse
+
+EXPLANATION:
+Cruelty or harassment by husband or relatives of husband.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 12
+CATEGORY: Family Law
+KEYWORDS: domestic violence complaint, protection order
+
+EXPLANATION:
+Aggrieved woman may file application before Magistrate
+seeking relief under DV Act.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 18
+CATEGORY: Family Law
+KEYWORDS: protection order, abuse prevention
+
+EXPLANATION:
+Court may issue protection orders against domestic violence.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Protection of Women from Domestic Violence Act Section 20
+CATEGORY: Family Law
+KEYWORDS: monetary relief, maintenance, compensation
+
+EXPLANATION:
+Court may grant monetary relief and compensation.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Muslim Women (Protection of Rights on Marriage) Act 2019
+CATEGORY: Family Law
+KEYWORDS: triple talaq, muslim marriage rights
+
+EXPLANATION:
+Instant triple talaq is void and punishable.
+
+PUNISHMENT:
+Up to 3 years imprisonment and fine.
+
+COURT:
+Magistrate Court
+
+----------------------------------------------------
+
+SECTION: Special Marriage Act 1954
+CATEGORY: Family Law
+KEYWORDS: interfaith marriage, civil marriage
+
+EXPLANATION:
+Provides legal framework for civil and interfaith marriages.
+
+COURT:
+Marriage Registrar / Family Court
+
+----------------------------------------------------
+
+SECTION: Article 14
+CATEGORY: Constitutional Rights
+KEYWORDS: equality before law
+
+EXPLANATION:
+Every person has equal protection before law.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 15
+CATEGORY: Constitutional Rights
+KEYWORDS: gender equality, non discrimination
+
+EXPLANATION:
+Prohibits discrimination on grounds of sex, caste, or religion.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: dignity, life, personal liberty
+
+EXPLANATION:
+Protects dignity, life, and personal liberty.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+
+SECTION: Article 39A
+CATEGORY: Constitutional Rights
+KEYWORDS: legal aid, equal justice
+
+EXPLANATION:
+Provides equal justice and free legal aid.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
+SECTION: Hindu Marriage Act Section 13B
+CATEGORY: Family Law
+KEYWORDS: mutual consent divorce, joint divorce petition
+
+EXPLANATION:
+Husband and wife may jointly seek divorce by mutual consent.
+
+COURT:
+Family Court
+
+----------------------------------------------------
+
+SECTION: Prohibition of Child Marriage Act 2006
+CATEGORY: Family Law
+KEYWORDS: child marriage, underage marriage
+
+EXPLANATION:
+Child marriages are prohibited and punishable by law.
+
+PUNISHMENT:
+Imprisonment and fine.
+
+COURT:
+Sessions Court
+
+----------------------------------------------------
+
+SECTION: Maintenance and Welfare of Parents and Senior Citizens Act 2007
+CATEGORY: Family Law
+KEYWORDS: parent maintenance, senior citizen neglect
+
+EXPLANATION:
+Children must maintain parents and senior citizens unable to support themselves.
+
+COURT:
+Maintenance Tribunal
+
+----------------------------------------------------
+
+SECTION: Juvenile Justice Act
+CATEGORY: Family Law
+KEYWORDS: adoption, orphan child adoption
+
+EXPLANATION:
+Provides legal adoption procedures and child welfare mechanisms.
+
+COURT:
+Child Welfare Committee / Family Court
+
+----------------------------------------------------
+
+SECTION: IPC 509
+CATEGORY: Family Law
+KEYWORDS: insulting modesty, verbal harassment
+
+EXPLANATION:
+Words or gestures insulting modesty of a woman.
+
+PUNISHMENT:
+Imprisonment and/or fine.
+
+COURT:
+Criminal Court
+
+----------------------------------------------------
+
+SECTION: Article 21
+CATEGORY: Constitutional Rights
+KEYWORDS: dignity, privacy, family rights
+
+EXPLANATION:
+Right to dignity, privacy, and family life are protected.
+
+COURT:
+High Court / Supreme Court
+
+----------------------------------------------------
